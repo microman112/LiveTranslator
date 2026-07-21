@@ -3,6 +3,33 @@
 # Live Translator
 ## Project Changelog
 
+# Version 0.1.1
+## 21 July 2026
+
+Category
+
+Documentation Baseline
+
+Changes
+
+• Added Project Index document.
+
+• Finalized planning documentation.
+
+• Completed repository structure.
+
+• Added project navigation document.
+
+• Prepared implementation baseline.
+
+Status
+
+Planning Frozen
+
+Author
+
+Mohamed
+
 Version: 1.0
 
 Status: Active
