@@ -1,0 +1,62 @@
+{
+  "project": {
+    "name": "Live Translator",
+    "version": "0.1.0",
+    "status": "Planning",
+    "author": "Mohamed",
+    "platform": "Enigma2",
+    "package": "IPK"
+  },
+
+  "development": {
+    "currentMilestone": 1,
+    "nextMilestone": 2,
+    "completedMilestones": [
+      0
+    ]
+  },
+
+  "engines": [
+    {
+      "id": 1,
+      "name": "DVB Subtitle Translation",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "name": "EPG Subtitle Search",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "name": "EPG Translation",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "name": "OCR Translation",
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "name": "Live Speech Translation",
+      "status": "Pending"
+    },
+    {
+      "id": 6,
+      "name": "Media Identification",
+      "status": "Pending"
+    },
+    {
+      "id": 7,
+      "name": "AI Voice Translation",
+      "status": "Pending"
+    }
+  ],
+
+  "build": {
+    "status": "Not Started",
+    "tests": "Not Started",
+    "package": "Not Started"
+  }
+}
