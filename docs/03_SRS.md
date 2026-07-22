@@ -6,7 +6,9 @@ Project: Live Translator
 
 Version: 1.0
 
-Status: Draft
+Status: Approved
+
+Requirements Frozen
 
 Author: Mohamed
 

@@ -5,7 +5,9 @@
 
 Version: 1.0
 
-Status: Draft
+Status: Approved
+
+Architecture Frozen
 
 Author: Mohamed
 
